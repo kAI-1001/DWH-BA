@@ -1,2 +1,3 @@
 # DWH-BA
-## dwh
+A step towards greatness
+A step away from madness
